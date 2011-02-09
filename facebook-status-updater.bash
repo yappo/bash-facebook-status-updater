@@ -1,6 +1,6 @@
 # in your ~/.bashrc
 #
-#    source ~/git/bash-facebook-status-updater/facebook-status-updater.bash
+#    source ~/git/facebook-status-updater/facebook-status-updater.bash
 #    alias facebook="ACCESS_TOKEN='your-facebook-access_token' facebook-status-updater"
 #
 APP_ID=109938505749078
